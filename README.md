@@ -6,8 +6,8 @@ This script uses the api of CRT.sh to fetch the all the subdomains of the domain
 
 Steps to use this script:
 
-1.git pull https://github.com/SandeepSrinivasan/crt.sh.git
+1.git clone https://github.com/SandeepSrinivasan/crt.sh.git
 
-2.cd 
+2.cd crt.sh
 
 3.go run main.go {domain_name_goes_here}
